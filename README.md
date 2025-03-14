@@ -1,7 +1,6 @@
 Midong Kefas
 DATA ANALYTICS PORTFOLIO
 About
-This is a repository that I created to track my Data Analytics progress and also build on my skills as I embark on my journey.
 Good day, I am Mdong Kefas I am an Economist with an analytic background and currently in a learning path with IWD data camp striving to improve my skills. With my strong background in Economics I will be able to drive insights from data and also evaluate how Economic indicators (GDP, Inflation, Monetary policy, Unemployment rate) affects the economy. I am an entry level data analyst ready to improve my sills in the world of technology.
 
 After my learning process I had little challenges with data interaction which led to my personal learning journey. In the process of learning I was able to work on complex real world dataset to be able to identify consumption pattern, sales trend and patterns. I gained experienced in sales trend, revenue pattern, cost efficiency, consumption pattern which I believe will be a great value in my in my analytics journey.
@@ -19,20 +18,22 @@ o	Python
 	Analyzing Consumption Per Capita
 	Sales with revenue Analysis
 o	Power BI
-	Analyzing different Farm Utilities and resources
+	Analyzing different Farm Utilities and resource
 
 •	Education
 •	Certificates
 •	Contact
+
 Portfolio Projects
 In this section I will list data analytics tools briefly describing how I use them to solve problems.
 Consumption of Meat Per Capita
-Code: meat and fish consumption (3).ipynb
+Code: [Uploading meat and fish consumption (3).ipynb…]()
+
 Goal: To determine the Consumption of meat pattern of different countries with a given per capita income.
 Description: The primary objective of this dataset is to analyze the consumption of meat and fish across different countries in relation with their per capita income levels. It aims at providing insight on it consumption pattern, comparative analysis, and policy.
 
 Sales with Revenue
-Code: Midong sales with revenue 3real one.ipynb
+Code: [Uploading Midong sales with revenue 3real one.ipynb…]()
 Goal: To determine sales pattern and trend and revenue generated over time.
 Description: This dataset contains sales with revenue for an organization, providing comprehensive sales performance, revenue generated and units sold. The dataset is suitable for economic research and business driven insight task and designated for analysis, visualization and reporting. 
 
