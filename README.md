@@ -50,7 +50,8 @@ An Agricultural Sector wants to get insights and recommendations to improve thei
 
 # Education
 University of Jos: Bachelor of Science – B.SC Economics, 2017-2023
-Certificates
+
+# Certificates
 Codelab Educare certificate [codelab full class certificate 2](https://github.com/user-attachments/assets/112b9f87-a0f9-4b3e-9e07-0f190b695378)  (feb 2025)
 
 Deloitte Data Analytics Job Simulation [completion_certificate for me.pdf](https://github.com/user-attachments/files/19251340/completion_certificate.for.me.pdf) (feb 2025)
