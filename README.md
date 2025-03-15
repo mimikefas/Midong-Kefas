@@ -7,7 +7,8 @@ After my learning process I had little challenges with data interaction which le
 
 In my leisure time, I like working with new data analysis tools and techniques, and looking to greater opportunities to expand my knowledge and skills. Whether working on a team or independently, I am open to discovery of new insights and the satisfaction of using data to solve complex problems.
 
-My resume 
+My resume [Kefas_Midong_Resume analytics 1 - Copy.docx](https://github.com/user-attachments/files/19262907/Kefas_Midong_Resume.analytics.1.-.Copy.docx)
+
 
 This is a repository that I created to track my Data Analytics progress and also build on my skills as I embark on my journey.
 
