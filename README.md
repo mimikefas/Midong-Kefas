@@ -7,7 +7,7 @@ After my learning process I had little challenges with data interaction which le
 
 In my leisure time, I like working with new data analysis tools and techniques, and looking to greater opportunities to expand my knowledge and skills. Whether working on a team or independently, I am open to discovery of new insights and the satisfaction of using data to solve complex problems.
 
-My resume [current cv updated.docx](https://github.com/user-attachments/files/19249881/current.cv.updated.docx)
+My resume 
 
 This is a repository that I created to track my Data Analytics progress and also build on my skills as I embark on my journey.
 
